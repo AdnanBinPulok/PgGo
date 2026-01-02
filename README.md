@@ -17,10 +17,10 @@ PgGo is a high-performance, secure, and easy-to-use PostgreSQL ORM/Query Builder
 ## Installation
 
 ```bash
-go get github.com/yourusername/pggo
+go get github.com/AdnanBinPulok/PgGo
 ```
 
-*(Note: Replace `github.com/yourusername/pggo` with the actual module path if published)*
+*(Note: Replace `github.com/AdnanBinPulok/PgGo` with the actual module path if published)*
 
 ## Usage
 
